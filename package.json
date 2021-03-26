@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/seangayler/learn-typescript/issues"
   },
-  "homepage": "https://github.com/seangayler/learn-typescript#readme"
+  "homepage": "https://github.com/seangayler/learn-typescript#readme",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
 }
